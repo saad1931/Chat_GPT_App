@@ -3,6 +3,8 @@ import 'package:chatgptapp/ts.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+//make sure to change api-key,i have removed.
+//update in api-services.dart file 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setSystemUIOverlayStyle(
